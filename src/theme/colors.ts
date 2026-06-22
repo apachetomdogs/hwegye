@@ -1,0 +1,15 @@
+export const colors = {
+  primaryOrange: "#FF8A3D",
+  primaryTeal: "#2BB3A3",
+  background: "#FFFDF8",
+  backgroundGray: "#F8F8F8",
+  textMain: "#222222",
+  textSub: "#666666",
+  border: "#EAEAEA",
+  white: "#FFFFFF",
+  correct: "#4CAF50",
+  caution: "#FFC107",
+  wrong: "#F44336",
+  chabiColor: "#FF8A3D",
+  dabiColor: "#2BB3A3",
+};
